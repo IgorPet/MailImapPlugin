@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.igorpet.mailimapplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.igorpet.mailimapplugin.MyBundle
 
 class MyApplicationService {
 
